@@ -67,3 +67,35 @@ Generalization: Trained to also work well for the unseen dataset.
 ## 1.3 Unsupervised Learning
 
 **Definition:**  Learn without ground truth.
+
+**An Example:** Clustering
+
+**Reducing Dimensionality** to discover the main latent feature. (PCA introduced in later chapters.)
+
+**Self-supervised Learning.**
+
+**Evaluating unsupervised learning** with unseen test samples.
+
+
+
+## 1.4 Reinforcement Learning
+
+**Definition: ** Learn to perform a task with only an occasional reward
+
+**Difficulties:**
+
+1. The reward may only be given occasionally.
+2. Unclear which action is responsible for the reward.
+
+**Compensated with** expert demonstrations.
+
+
+
+## 1.5 Data
+
+Omission
+
+
+
+
+
