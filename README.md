@@ -10,7 +10,7 @@ Code assignments and review for **Probabilistic Machine Learning**.
 
 Foundations
 
-[2 Probability: Univariate Models](PML_An_Introduction/A_Foundations/2_Probability_Univariate_Models.md)  [Exercise :page_with_curl:]("D:\NYU\Machine Learning\Probabilistic_MPML_An_Introduction/Exercises/2.9_Exercises.md)
+[2 Probability: Univariate Models](PML_An_Introduction/A_Foundations/2_Probability_Univariate_Models.md)  [Exercise :page_with_curl:](PML_An_Introduction/Exercises/2.9_Exercises.md)
 
 
 
