@@ -10,10 +10,11 @@ Code assignments and review for **Probabilistic Machine Learning**.
 
 Foundations
 
-2024.5.21 :page_facing_up: [2 Probability: Univariate Models](PML_An_Introduction/A_Foundations/2_Probability_Univariate_Models.md)  [Exercise](PML_An_Introduction/Exercises/2.9_Exercises.md)
+2024.5.21 :page_facing_up: [2 Probability: Univariate Models](PML_An_Introduction/A_Foundations/2_Probability_Univariate_Models.md)  [Exercise](PML_An_Introduction/Exercises/2_Exercises.md)
 
-2024.5.23 :page_facing_up: [3 Probability: Multivariate Models](PML_An_Introduction/A_Foundations/3_Probability_Multivariate_Models.md) [Exercise](PML_An_Introduction/Exercises/3.7_Exercises.md)
+2024.5.23 :page_facing_up: [3 Probability: Multivariate Models](PML_An_Introduction/A_Foundations/3_Probability_Multivariate_Models.md) [Exercise](PML_An_Introduction/Exercises/3_Exercises.md)
 
+2024.5.31 :page_facing_up: [4 Statistics](PML_An_Introduction/A_Foundations/4_Statistics.md) [Exercise](PML_An_Introduction/Exercises/4_Exercises.md)
 
 
 ### :book: Probabilistic Machine Learning: Advanced Topics
