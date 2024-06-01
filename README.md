@@ -16,6 +16,8 @@ Foundations
 
 2024.5.31 :page_facing_up: [4 Statistics](PML_An_Introduction/A_Foundations/4_Statistics.md) [Exercise](PML_An_Introduction/Exercises/4_Exercises.md)
 
+2024.6.1 :page_facing_up: [5 Decision Theory](PML_An_Introduction/A_Foundations/5_Decision_Theory.md) [Exercise](PML_An_Introduction/Exercises/5_Decision_Theory.md)
+
 
 ### :book: Probabilistic Machine Learning: Advanced Topics
 
